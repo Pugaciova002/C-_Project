@@ -9,14 +9,24 @@ namespace Cs_Project.Classes
 	internal  class Admin_Rules    // should've inherit Table_Cheangeable ??
 	{
 		string Admin_Rules_password;     // must be setted on the constructor on the first place
-		static Byte Access_Checker = 0;
+		static bool Access_Checker = false;
 
 
 		public Admin_Rules(string Password)
 		{
 			Admin_Rules_password = Password;
         }
-		 public Byte Checking_Input_Password() {/* comparing it. Setting Access_Checker*/ return 0; }
+		 public bool Checking_Input_Password(string Inp_Pass) 
+		{
+			if (Admin_Rules_password.CompareTo(Inp_Pass) == 0)
+			{
+				Access_Checker = true;
+				return true;
+			}
+			else
+			{ return false; }
+		
+		}
 		
 		public void Changing_Password(string New_Password) 
 		{
@@ -24,7 +34,7 @@ namespace Cs_Project.Classes
 		}
 
 		// Checking if user left from the Admin area, in the switch 
-		public void Leaving_Admin() { Access_Checker = 0; }
+		public void Leaving_Admin() { Access_Checker = false; }
 
 	}
 }
