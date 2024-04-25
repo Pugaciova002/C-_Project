@@ -1,6 +1,0 @@
-W:\Csharp\Tests_Learning\Tabel_Date\Cont\bin\Debug\Cont.dll
-W:\Csharp\Tests_Learning\Tabel_Date\Cont\bin\Debug\Cont.pdb
-W:\Csharp\Tests_Learning\Tabel_Date\Cont\obj\Debug\Cont.csproj.AssemblyReference.cache
-W:\Csharp\Tests_Learning\Tabel_Date\Cont\obj\Debug\Cont.csproj.CoreCompileInputs.cache
-W:\Csharp\Tests_Learning\Tabel_Date\Cont\obj\Debug\Cont.dll
-W:\Csharp\Tests_Learning\Tabel_Date\Cont\obj\Debug\Cont.pdb
