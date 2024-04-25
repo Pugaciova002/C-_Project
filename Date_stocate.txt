@@ -1,0 +1,2 @@
+null null -2 1/1/0001 fwa few 5 null %Scheia,Moara,Patrauti Adaseni,Concesti,Cordareni 2/4/2050 2/4/2051
+null null -2 1/1/0001 faw re 5 null %Scheia,Moara,Patrauti Adaseni,Concesti,Cordareni 2/4/2050 2/4/2051

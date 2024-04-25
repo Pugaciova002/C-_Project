@@ -1,0 +1,12 @@
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\bin\Debug\Interfata_de_Comanda.exe.config
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\bin\Debug\Interfata_de_Comanda.exe
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\bin\Debug\Interfata_de_Comanda.pdb
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\bin\Debug\Cont.dll
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\bin\Debug\Tabel.dll
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\bin\Debug\Cont.pdb
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\bin\Debug\Tabel.pdb
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\obj\Debug\Interfata_de_Comanda.csproj.AssemblyReference.cache
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\obj\Debug\Interfata_de_Comanda.csproj.CoreCompileInputs.cache
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\obj\Debug\Interfat.B40B484C.Up2Date
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\obj\Debug\Interfata_de_Comanda.exe
+W:\Csharp\Tests_Learning\Tabel_Date\Interfata_de_Comanda\obj\Debug\Interfata_de_Comanda.pdb

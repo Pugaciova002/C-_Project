@@ -1,0 +1,2 @@
+Login Parola CNP Data_Nasterii Prenume Nume Nr.Lot Adresa
+Regiuni_Suceava Regiuni_Botosani Data_Start Data_End
