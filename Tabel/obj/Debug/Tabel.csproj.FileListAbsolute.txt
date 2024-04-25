@@ -1,9 +1,0 @@
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\bin\Debug\Tabel.dll
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\bin\Debug\Tabel.pdb
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\obj\Debug\Tabel.csproj.AssemblyReference.cache
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\obj\Debug\Tabel.csproj.CoreCompileInputs.cache
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\obj\Debug\Tabel.dll
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\obj\Debug\Tabel.pdb
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\bin\Debug\Cont.dll
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\bin\Debug\Cont.pdb
-W:\Csharp\Tests_Learning\Tabel_Date\Tabel\obj\Debug\Tabel.csproj.Up2Date
